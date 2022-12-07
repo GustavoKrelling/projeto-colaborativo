@@ -1,0 +1,26 @@
+body{
+   background-color: black;
+    color: white;
+}
+
+#corpo{
+    background-color: black;
+    color: white;
+}
+
+#titulo{
+    color: #d92525;
+}
+
+.cor1{
+    background-color: #d92525;
+}
+
+.div{
+    border-left: 6px solid white;
+    height: 420px;
+    position: absolute;
+    left: 50%;
+    margin-left: -4px;
+    top: 60px;
+}
